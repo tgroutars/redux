@@ -73,6 +73,7 @@ On this page we will only feature a few of them that the Redux maintainers have 
 * [redux-saga](https://github.com/yelouafi/redux-saga) — An alternative side effect model for Redux apps
 * [redux-action-tree](https://github.com/cerebral/redux-action-tree) — Composable Cerebral-style signals for Redux
 * [apollo-client](https://github.com/apollostack/apollo-client) — A simple caching client for any GraphQL server and UI framework built on top of Redux
+* [redux-rest-tools] (https://github.com/ocolot/redux-rest-tools) — An opinionated library to handle API calls
 
 ### Routing
 
